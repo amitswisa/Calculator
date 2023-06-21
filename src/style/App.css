@@ -1,0 +1,16 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container_fluid {
+  max-width: 100%;
+  display: flex;
+  text-align: center;
+  flex-direction: column-reverse;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+button {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.numberBtn {
+  background-color: #eca72c;
+}
+
+.operation {
+  background-color: #ee5622;
+}
+
+.equals {
+  background-color: #31263e;
+  grid-column: 3 / 5;
+}
